@@ -1,0 +1,15 @@
+h1 {
+    color : grey;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.top-bar {
+    background-color: #323030;
+    width: 100%;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+.fill {
+    background-color: black;
+    height: 100%;
+}

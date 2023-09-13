@@ -13,6 +13,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+For github pages deployment: 
+`ng build --output-path docs --base-href /AngularDemo/`
 
 ## Running unit tests
 
